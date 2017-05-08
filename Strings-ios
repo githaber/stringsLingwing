@@ -1,0 +1,3593 @@
+{
+    "lgeo": "ქართული",
+    "leng": "English",
+    "lesp": "Español",
+    "lrus": "русский",
+    "ltur": "Türk",
+    "taskHintWhenSpace": [
+        {
+            "languageCode": 1,
+            "data": "გამოტოვება"
+        },
+        {
+            "languageCode": 2,
+            "data": "Space"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "grammarNextTask": [
+        {
+            "languageCode": 1,
+            "data": "შემდეგი დავალება"
+        },
+        {
+            "languageCode": 2,
+            "data": "Next Task"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "grammarSeeMore": [
+        {
+            "languageCode": 1,
+            "data": "დაწვრილებით"
+        },
+        {
+            "languageCode": 2,
+            "data": "See Full"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "firstLettersTasks": [
+        {
+            "languageCode": 1,
+            "data": "დაწერე სიტყვების პირველი ასოები"
+        },
+        {
+            "languageCode": 2,
+            "data": "English"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "replay": [
+        {
+            "languageCode": 1,
+            "data": "გამეორება"
+        },
+        {
+            "languageCode": 2,
+            "data": "Replay"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "Repetición"
+        },
+        {
+            "languageCode": 5,
+            "data": "Tekrar"
+        }
+    ],
+    "omittedwords": [
+        {
+            "languageCode": 1,
+            "data": "გამოტოვებული სიტყვები"
+        },
+        {
+            "languageCode": 2,
+            "data": "Omitted Word"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "Palabras omitidas"
+        },
+        {
+            "languageCode": 5,
+            "data": "Atlanan kelimeler"
+        }
+    ],
+    "mistakecorrection": [
+        {
+            "languageCode": 1,
+            "data": "შეცდომების გასწორება"
+        },
+        {
+            "languageCode": 2,
+            "data": "Mistake Correction"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "Corrección de errores"
+        },
+        {
+            "languageCode": 5,
+            "data": "Hata düzeltme"
+        }
+    ],
+    "grammar": [
+        {
+            "languageCode": 1,
+            "data": "გრამატიკა"
+        },
+        {
+            "languageCode": 2,
+            "data": "Grammar"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "Gramática"
+        },
+        {
+            "languageCode": 5,
+            "data": "Gramer"
+        }
+    ],
+    "dialog": [
+        {
+            "languageCode": 1,
+            "data": "დიალოგი"
+        },
+        {
+            "languageCode": 2,
+            "data": "Dialog"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "Diálogo"
+        },
+        {
+            "languageCode": 5,
+            "data": "Diyalog"
+        }
+    ],
+    "dictation": [
+        {
+            "languageCode": 1,
+            "data": "კარნახი"
+        },
+        {
+            "languageCode": 2,
+            "data": "Dictation"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "Diccionario"
+        },
+        {
+            "languageCode": 5,
+            "data": "Dikte"
+        }
+    ],
+    "translate": [
+        {
+            "languageCode": 1,
+            "data": "თარგმანი"
+        },
+        {
+            "languageCode": 2,
+            "data": "Translate"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "Traducción"
+        },
+        {
+            "languageCode": 5,
+            "data": "Çevirmek"
+        }
+    ],
+    "yourAnswer": [
+        {
+            "languageCode": 1,
+            "data": "შენი პასუხი:"
+        },
+        {
+            "languageCode": 2,
+            "data": "YOUR ANSWER:"
+        },
+        {
+            "languageCode": 3,
+            "data": "ВАШ ОТВЕТ:"
+        },
+        {
+            "languageCode": 4,
+            "data": "TU RESPUESTA:"
+        },
+        {
+            "languageCode": 5,
+            "data": "SENİN CEVABIN:"
+        }
+    ],
+    "Languagesavailable": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Languages available"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Youwillbemighty": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "You’ll be mighty!"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Сurrentlydoingcourse": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Сurrently doing the course!"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Havecompletedcourse": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Have completed the course!"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Areyouinterested": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Are you interested? So…"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Hoursincourse": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Hours in course"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Uniquewords": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Unique words"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Exercisesincourse": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Exercises in course"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Totalpointswithinthecourse": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Total points within the course"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Remainingpoints": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Remaining points"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Pointscollected": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Points collected"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Timespent": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Time spent on exercises so far"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Estimatedtime": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Estimated time of finishing the course"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Ratingposition": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Rating position"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Yourrating": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Your rating"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Progress": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Progress"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Yourprogress": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Your progress"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "ILearnFromPopupTitle": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "I Learn From"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "CLOSE": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "CLOSE"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Upgradeyourplan": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Upgrade your plan!"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Bonus": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Bonus"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Totalhoursspent": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Total hours spent"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Freetasksleft": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Free tasks left"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "PleaseEnterValidCoupon": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Please Enter Valid Coupon"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "ChooseyourCurrency": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Choose your Currency"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Packages": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Packages"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Upgrading": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Upgrading"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Totalprice": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Total price"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Free": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Free"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "freePacketTitle": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Lazybones"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Yousave": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "You save"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Paywith": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Pay with"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Mostpopular": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Most popular"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "SuccessfulpaymentMsg": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "We’ve sent the details of purchase to your email."
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Successfulpayment": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Successful payment!"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "SomethingwentwrongMsg": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Please, check your payment details and come back!"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Somethingwentwrong": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Something went wrong..."
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "SendingyourpaymentMsg": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "by our post pigeons… Please, wait, they are on the way."
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Sendingyourpayment": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Sending your payment"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "PaymentStatusYourMail": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "We Send Payment Status At Your Mail"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "all": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "all"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "limited": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Limited"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Unlimited": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Unlimited"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Months": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Months:"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "ActivatePacket": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Activate Packet"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "EntercouponMsg": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Enter coupon code and get special sale"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Entercoupon": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Enter coupon"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "FromLibrary": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "From library"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "TakePhoto": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Take a photo"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "takePhotoOrUpload": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "What would you like to do?"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "email": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Email"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "gender": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Gender"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "editYourProfile": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "EDIT YOUR INFO"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "male": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Male"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "female": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Female"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Birthdate": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Birth date"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Newsletter": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Newsletter"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "phone": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "phone"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "City": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "City"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Country": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Country"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Lastname": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Lastname"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Firstname": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Firstname"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "SuccessSendCode": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Success send"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "ServerError": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Server Error\nPlease try Later"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "mailbelongstoanother": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "This mail belongs to another account"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "accountAlreadyActivatedMsg": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Your account is Already Activated"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Congratulations": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Congratulations!"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Save": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Save"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "CompleteRegistrationMsg": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Complete registration to receive extra excercises."
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "ReSendActivationCode": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "ReSend Activation Code"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Activate": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Activate"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "EnterActivationMsg": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Chack Your Mail And Enter Activation Code"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "GetKey": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Get a Key"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "IHaveKey": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "I Have Already a Key"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "ActivationMsg": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "We will send you Activation Key to your email."
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Yourcurrentplan": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Your current plan"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "upgrate": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "UPGRADE"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Giftaccounts": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Gift accounts:"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Tasks": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Tasks:"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Languages": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Languages:"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "daysleft": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "[] days left"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "menuLogout": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Log out"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "menuSettings": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Settings"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "menuProfile": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Profile"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "menuMyplan": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "My plan"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "menuPackets": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Packets"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "menuDashBoard": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Dashboard"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Makecomfortable": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Make studying way far comfortable"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Selectpackage": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Select package"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Dontwaittomorrow": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Don’t wait for tomorrow"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Getbonusnow": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Get bonus now"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Tosavesignup": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Tosave your progress please sign up"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Signupandcontinue": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Sign up and continue"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Getmore": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Get more"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Registration": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Registration"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Introduction": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Introduction"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Pointsearned": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Points earned"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Taskscompleted": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Tasks completed"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "AreYouSure": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Are You Sure"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "OK": [
+        {
+            "languageCode": 1,
+            "data": "დიახ"
+        },
+        {
+            "languageCode": 2,
+            "data": "Ok"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "ChangeLanguage": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Change Language"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "ResetCourse": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Reset Course"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "CourseStatistics": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Course Statistics"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "AboutCourse": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "About Course"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Cancel": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Cancel"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Bye": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Bye"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Continue": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Continue"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Start": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Start"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Topscores": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Top scores"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "goAhead": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "GO AHEAD!"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Next": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Next"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Score": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Score:"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Ithinkmylevelis": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "I think my level is…"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Iwanttolearn": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "I want to learn [] from..."
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "LoginRegistration": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Login/Registration"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Startlearning": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Start learning"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Ialreadyhaveanaccount": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "I already have an account"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Choosethelanguagetolearn": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Choose the language to learn"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Repeatyourpassword": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Repeat your password"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "EnterYourCode": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Enter Your Code"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Enteryouremail": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Enter your email"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "EnterNewpassword": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Enter New password"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "EnterOldpassword": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Enter Old password"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Enteryourpassword": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Enter your password"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Terms": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Terms"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "AlreadyHaveAnAccount": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Already have an account?"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "DontHaveAnAccount": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Don’t have an account?"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "SignUpwithEmail": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Sign Up with Email"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "SignInwithEmail": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Sign In with Email"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Signin": [
+        {
+            "languageCode": 1,
+            "data": "შესვლა"
+        },
+        {
+            "languageCode": 2,
+            "data": "Sign in"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "Signup": [
+        {
+            "languageCode": 1,
+            "data": "რეგისტრაცია"
+        },
+        {
+            "languageCode": 2,
+            "data": "Sign up"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "SignUpWith": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Sign Up With"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "SignInWith": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Sign in with"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "or": [
+        {
+            "languageCode": 1,
+            "data": "ან"
+        },
+        {
+            "languageCode": 2,
+            "data": "or"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "ConnectWithTwitter": [
+        {
+            "languageCode": 1,
+            "data": "Twitter - ით შესვლა"
+        },
+        {
+            "languageCode": 2,
+            "data": "Connect with Twitter"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "ConnectWithGoogle": [
+        {
+            "languageCode": 1,
+            "data": "Google+ - ით შესვლა"
+        },
+        {
+            "languageCode": 2,
+            "data": "Connect with Google+"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "ConnectWithFacebook": [
+        {
+            "languageCode": 1,
+            "data": "Facebook-ით შესვლა"
+        },
+        {
+            "languageCode": 2,
+            "data": "Connect with Facebook"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "loaderPageMsg": [
+        {
+            "languageCode": 1,
+            "data": "მასწავლებელი შენს ჯიბეში!"
+        },
+        {
+            "languageCode": 2,
+            "data": "Teacher in your pocket!"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "hint": [
+        {
+            "languageCode": 1,
+            "data": "მინიშნება:"
+        },
+        {
+            "languageCode": 2,
+            "data": "Hint:"
+        },
+        {
+            "languageCode": 3,
+            "data": ""
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "changeLanguages": [
+        {
+            "languageCode": 1,
+            "data": "ენის შეცვლა"
+        },
+        {
+            "languageCode": 2,
+            "data": "Change Language"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "changePassword": [
+        {
+            "languageCode": 1,
+            "data": "პაროლის შეცვლა"
+        },
+        {
+            "languageCode": 2,
+            "data": "Change Password"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "NoInternet": [
+        {
+            "languageCode": 1,
+            "data": "ინტერნეტი არ არის"
+        },
+        {
+            "languageCode": 2,
+            "data": "There is no Internet"
+        },
+        {
+            "languageCode": 3,
+            "data": "Интернет не является"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "NoInternetTitle": [
+        {
+            "languageCode": 1,
+            "data": "ვაი ვაი!"
+        },
+        {
+            "languageCode": 2,
+            "data": "Uh Oh!"
+        },
+        {
+            "languageCode": 3,
+            "data": "Интернет не является"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "NoInternetmsg": [
+        {
+            "languageCode": 1,
+            "data": "შენ არ გაქვს ინტერნეტი, გადაამოწმე და დაბრუნდი ჩვენ გელოდებით!"
+        },
+        {
+            "languageCode": 2,
+            "data": "It seems you’re not connected to the Internet… Please check your connection and come back again. We’re waiting!"
+        },
+        {
+            "languageCode": 3,
+            "data": "Интернет не является"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "geo": [
+        {
+            "languageCode": 1,
+            "data": "ქართული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Georgian"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "eng": [
+        {
+            "languageCode": 1,
+            "data": "ინგლისური"
+        },
+        {
+            "languageCode": 2,
+            "data": "English"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "rus": [
+        {
+            "languageCode": 1,
+            "data": "რუსული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Russia"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "ita": [
+        {
+            "languageCode": 1,
+            "data": "იტალიური"
+        },
+        {
+            "languageCode": 2,
+            "data": "Italian"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "esp": [
+        {
+            "languageCode": 1,
+            "data": "ესპანური"
+        },
+        {
+            "languageCode": 2,
+            "data": "Spanish"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "fre": [
+        {
+            "languageCode": 1,
+            "data": "ფრანგული"
+        },
+        {
+            "languageCode": 2,
+            "data": "French"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ],
+    "tur": [
+        {
+            "languageCode": 1,
+            "data": "თურქული"
+        },
+        {
+            "languageCode": 2,
+            "data": "Turkish"
+        },
+        {
+            "languageCode": 3,
+            "data": "русский"
+        },
+        {
+            "languageCode": 4,
+            "data": "espanio"
+        },
+        {
+            "languageCode": 5,
+            "data": "turkia"
+        }
+    ]
+}
