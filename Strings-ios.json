@@ -271,7 +271,7 @@
      "Languagesavailable": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ხელმისაწვდომი ენები"
               },
               {
               "languageCode": 2,
@@ -279,7 +279,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Доступных языков"
               },
               {
               "languageCode": 4,
@@ -293,7 +293,7 @@
     "Youwillbemighty": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "შენ შეძლებ!"
               },
               {
               "languageCode": 2,
@@ -301,7 +301,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "У вас это получится"
               },
               {
               "languageCode": 4,
@@ -315,7 +315,7 @@
     "Сurrentlydoingcourse": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "კურსს მეცადინეობს!"
               },
               {
               "languageCode": 2,
@@ -323,7 +323,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Сейчас курс проходят!"
               },
               {
               "languageCode": 4,
@@ -337,7 +337,7 @@
     "Havecompletedcourse": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "კურსი დაასრულა!"
               },
               {
               "languageCode": 2,
@@ -345,7 +345,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Курс окончили!"
               },
               {
               "languageCode": 4,
@@ -359,7 +359,7 @@
     "Areyouinterested": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "დაინტერესებული ხარ?"
               },
               {
               "languageCode": 2,
@@ -367,7 +367,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Вам интересно? Тогда..."
               },
               {
               "languageCode": 4,
@@ -381,7 +381,7 @@
     "Hoursincourse": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "საათი კურსში"
               },
               {
               "languageCode": 2,
@@ -389,7 +389,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Кол-во часов в курсе"
               },
               {
               "languageCode": 4,
@@ -403,7 +403,7 @@
     "Uniquewords": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "უნიკალური სიტყვა"
               },
               {
               "languageCode": 2,
@@ -411,7 +411,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Уникальных слов"
               },
               {
               "languageCode": 4,
@@ -425,7 +425,7 @@
     "Exercisesincourse": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "დავალება კურსში"
               },
               {
               "languageCode": 2,
@@ -433,7 +433,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Кол-во упражнений в курсе"
               },
               {
               "languageCode": 4,
@@ -447,7 +447,7 @@
     "Totalpointswithinthecourse": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ქულების საერთო რაოდენობა კურსში"
               },
               {
               "languageCode": 2,
@@ -455,7 +455,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Всего баллов за курс"
               },
               {
               "languageCode": 4,
@@ -469,7 +469,7 @@
     "Remainingpoints": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "დარჩენილი ქულები"
               },
               {
               "languageCode": 2,
@@ -477,7 +477,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Кол-во оставшихся баллов"
               },
               {
               "languageCode": 4,
@@ -491,7 +491,7 @@
     "Pointscollected": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "დაგროვილი ქულები"
               },
               {
               "languageCode": 2,
@@ -499,7 +499,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Набранные баллы"
               },
               {
               "languageCode": 4,
@@ -513,7 +513,7 @@
     "Timespent": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "გავლილ დავალებებზე დახარჯული დრო"
               },
               {
               "languageCode": 2,
@@ -521,7 +521,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Время, затраченное на выполнение упражнений"
               },
               {
               "languageCode": 4,
@@ -535,7 +535,7 @@
     "Estimatedtime": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "კურსის დამთავრების სავარაუდო დრო"
               },
               {
               "languageCode": 2,
@@ -543,7 +543,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Приблизительное время окончания курса"
               },
               {
               "languageCode": 4,
@@ -557,7 +557,7 @@
     "Ratingposition": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "პოზიცია რეიტინგში"
               },
               {
               "languageCode": 2,
@@ -565,7 +565,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Позиция в рейтинге"
               },
               {
               "languageCode": 4,
@@ -580,7 +580,7 @@
     "Yourrating": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "შენი რეიტინგი"
               },
               {
               "languageCode": 2,
@@ -588,7 +588,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Ваш рейтинг"
               },
               {
               "languageCode": 4,
@@ -603,7 +603,7 @@
     "Progress": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "პროგრესი"
               },
               {
               "languageCode": 2,
@@ -611,7 +611,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Прогресс"
               },
               {
               "languageCode": 4,
@@ -626,7 +626,7 @@
     "Yourprogress": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "შენი პროგრესი"
               },
               {
               "languageCode": 2,
@@ -634,7 +634,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Ваш прогресс"
               },
               {
               "languageCode": 4,
@@ -648,7 +648,7 @@
     "ILearnFromPopupTitle": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "მე ვსწავლობ"
               },
               {
               "languageCode": 2,
@@ -656,7 +656,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Я изучаю при помощи"
               },
               {
               "languageCode": 4,
@@ -670,7 +670,7 @@
     "CLOSE": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "დახურვა"
               },
               {
               "languageCode": 2,
@@ -678,7 +678,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "ЗАКРЫТЬ"
               },
               {
               "languageCode": 4,
@@ -692,7 +692,7 @@
     "Upgradeyourplan": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "განაახლე შენი გეგმა!"
               },
               {
               "languageCode": 2,
@@ -700,7 +700,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Измените свой план!"
               },
               {
               "languageCode": 4,
@@ -714,7 +714,7 @@
     "Bonus": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ბონუსი:"
               },
               {
               "languageCode": 2,
@@ -722,7 +722,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Бонус:"
               },
               {
               "languageCode": 4,
@@ -737,7 +737,7 @@
     "Totalhoursspent": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "სულ დახარჯული დრო"
               },
               {
               "languageCode": 2,
@@ -745,7 +745,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Всего часов потрачено"
               },
               {
               "languageCode": 4,
@@ -759,7 +759,7 @@
     "Freetasksleft": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "დარჩენილი უფასო დავალებები"
               },
               {
               "languageCode": 2,
@@ -767,7 +767,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Бесплатных заданий осталось"
               },
               {
               "languageCode": 4,
@@ -781,7 +781,7 @@
     "PleaseEnterValidCoupon": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "შეიყვალეთ მოქმედი კუპონი"
               },
               {
               "languageCode": 2,
@@ -789,7 +789,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Пожалуйста, Введите Действущий Купон"
               },
               {
               "languageCode": 4,
@@ -805,7 +805,7 @@
     "ChooseyourCurrency": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "აირჩიე შენი ვალუტა"
               },
               {
               "languageCode": 2,
@@ -813,7 +813,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Выберите Валюту"
               },
               {
               "languageCode": 4,
@@ -827,7 +827,7 @@
     "Packages": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "პაკეტები"
               },
               {
               "languageCode": 2,
@@ -835,7 +835,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Пакеты"
               },
               {
               "languageCode": 4,
@@ -849,7 +849,7 @@
     "Upgrading": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "განახლება"
               },
               {
               "languageCode": 2,
@@ -857,7 +857,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Улучшение"
               },
               {
               "languageCode": 4,
@@ -871,7 +871,7 @@
     "Totalprice": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ჯამური ფასი"
               },
               {
               "languageCode": 2,
@@ -879,7 +879,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Итоговая цена"
               },
               {
               "languageCode": 4,
@@ -893,7 +893,7 @@
     "Free": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "უფასო"
               },
               {
               "languageCode": 2,
@@ -901,7 +901,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Бесплатно"
               },
               {
               "languageCode": 4,
@@ -916,7 +916,7 @@
     "freePacketTitle": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ზარმაცი"
               },
               {
               "languageCode": 2,
@@ -924,7 +924,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Ленивый"
               },
               {
               "languageCode": 4,
@@ -939,7 +939,7 @@
     "Yousave": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "დანაზოგი"
               },
               {
               "languageCode": 2,
@@ -947,7 +947,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Вы экономите"
               },
               {
               "languageCode": 4,
@@ -962,7 +962,7 @@
     "Paywith": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "გადაიხადე"
               },
               {
               "languageCode": 2,
@@ -970,7 +970,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Оплатить при помощи"
               },
               {
               "languageCode": 4,
@@ -984,7 +984,7 @@
     "Mostpopular": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ყველაზე პოპულარული"
               },
               {
               "languageCode": 2,
@@ -992,7 +992,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Самый популярный"
               },
               {
               "languageCode": 4,
@@ -1006,7 +1006,7 @@
     "SuccessfulpaymentMsg": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "გამოგიგზავნეთ შენაძენის დეტალები თქვენს ელფოსტაზე."
               },
               {
               "languageCode": 2,
@@ -1014,7 +1014,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Мы отправили детали покупки на вашу почту"
               },
               {
               "languageCode": 4,
@@ -1028,7 +1028,7 @@
     "Successfulpayment": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "გადახდა წარმატებით შესრულდა!"
               },
               {
               "languageCode": 2,
@@ -1036,7 +1036,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Оплата успешно завершена!"
               },
               {
               "languageCode": 4,
@@ -1050,7 +1050,7 @@
     "SomethingwentwrongMsg": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "გადაამოწმე შენი გადახდის დეტალები და დაბრუნდი!"
               },
               {
               "languageCode": 2,
@@ -1058,7 +1058,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Пожалуйста, проверье детали вашей оплаты и возвращайтесь!"
               },
               {
               "languageCode": 4,
@@ -1072,7 +1072,7 @@
     "Somethingwentwrong": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "რაღაც შეცდომაა..."
               },
               {
               "languageCode": 2,
@@ -1080,7 +1080,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Что-то пошло не так..."
               },
               {
               "languageCode": 4,
@@ -1094,7 +1094,7 @@
     "SendingyourpaymentMsg": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ჩვენი საფოსტო მტრედებით... დაელოდე, ისინი გზაში არიან."
               },
               {
               "languageCode": 2,
@@ -1102,7 +1102,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "нашими почтовыми голубями... Пожалуйста, подождите, они уже в пути"
               },
               {
               "languageCode": 4,
@@ -1116,7 +1116,7 @@
     "Sendingyourpayment": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ტრანზაქციის დეტალები გაგზავნილია"
               },
               {
               "languageCode": 2,
@@ -1124,7 +1124,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Детали вашей оплаты отправлены"
               },
               {
               "languageCode": 4,
@@ -1138,7 +1138,7 @@
     "PaymentStatusYourMail": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "გამოგიგზავნეთ გადახდის სტატუსი შენს ელფოსტაზე"
               },
               {
               "languageCode": 2,
@@ -1146,7 +1146,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Мы Отправили Детали Оплаты На Вашу Почту"
               },
               {
               "languageCode": 4,
@@ -1160,7 +1160,7 @@
     "all": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ყველა"
               },
               {
               "languageCode": 2,
@@ -1168,7 +1168,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Все"
               },
               {
               "languageCode": 4,
@@ -1182,7 +1182,7 @@
     "limited": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "შეზღუდული"
               },
               {
               "languageCode": 2,
@@ -1190,7 +1190,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Ограниченный"
               },
               {
               "languageCode": 4,
@@ -1204,7 +1204,7 @@
     "Unlimited": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "შეუზღუდავი"
               },
               {
               "languageCode": 2,
@@ -1212,7 +1212,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Без ограничений"
               },
               {
               "languageCode": 4,
@@ -1226,7 +1226,7 @@
     "Months": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "თვე"
               },
               {
               "languageCode": 2,
@@ -1234,7 +1234,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Месяцы:"
               },
               {
               "languageCode": 4,
@@ -1248,7 +1248,7 @@
     "ActivatePacket": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "აქტიური პაკეტი"
               },
               {
               "languageCode": 2,
@@ -1256,7 +1256,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Активизировать Пакет"
               },
               {
               "languageCode": 4,
@@ -1270,7 +1270,7 @@
     "EntercouponMsg": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "შეიყვანე კუპონი და მიიღე სპეციალური ფასდაკლება"
               },
               {
               "languageCode": 2,
@@ -1278,7 +1278,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Введите код купона и получите специальную скидку"
               },
               {
               "languageCode": 4,
@@ -1292,7 +1292,7 @@
     "Entercoupon": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "შეიყვანე კუპონი"
               },
               {
               "languageCode": 2,
@@ -1300,7 +1300,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Введите купон"
               },
               {
               "languageCode": 4,
@@ -1314,7 +1314,7 @@
     "FromLibrary": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ბიბლიოთეკიდან"
               },
               {
               "languageCode": 2,
@@ -1322,7 +1322,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Из библиотеки"
               },
               {
               "languageCode": 4,
@@ -1337,7 +1337,7 @@
     "TakePhoto": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "სურათის გადაღება"
               },
               {
               "languageCode": 2,
@@ -1345,7 +1345,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Сфотографируйтесь"
               },
               {
               "languageCode": 4,
@@ -1359,7 +1359,7 @@
     "takePhotoOrUpload": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "რისი გაკეთება გსურს?"
               },
               {
               "languageCode": 2,
@@ -1367,7 +1367,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Чем бы вы хотели заняться?"
               },
               {
               "languageCode": 4,
@@ -1381,7 +1381,7 @@
     "email": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ელფოსტა"
               },
               {
               "languageCode": 2,
@@ -1389,7 +1389,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Эл. почта"
               },
               {
               "languageCode": 4,
@@ -1403,7 +1403,7 @@
     "gender": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "სქესი"
               },
               {
               "languageCode": 2,
@@ -1411,7 +1411,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Пол"
               },
               {
               "languageCode": 4,
@@ -1425,7 +1425,7 @@
     "editYourProfile": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "რედაქტირება"
               },
               {
               "languageCode": 2,
@@ -1433,7 +1433,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "РЕДАКТИРОВАТЬ"
               },
               {
               "languageCode": 4,
@@ -1447,7 +1447,7 @@
     "male": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "მამრობითი"
               },
               {
               "languageCode": 2,
@@ -1455,7 +1455,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Муж."
               },
               {
               "languageCode": 4,
@@ -1469,7 +1469,7 @@
     "female": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "მდედრობითი"
               },
               {
               "languageCode": 2,
@@ -1477,7 +1477,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Жен."
               },
               {
               "languageCode": 4,
@@ -1491,7 +1491,7 @@
     "Birthdate": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "დაბადების თარიღი"
               },
               {
               "languageCode": 2,
@@ -1499,7 +1499,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Дата рождения"
               },
               {
               "languageCode": 4,
@@ -1513,7 +1513,7 @@
     "Newsletter": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "სიახლეების მიღება"
               },
               {
               "languageCode": 2,
@@ -1521,7 +1521,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Рассылка"
               },
               {
               "languageCode": 4,
@@ -1535,7 +1535,7 @@
     "phone": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ტელეფონი"
               },
               {
               "languageCode": 2,
@@ -1543,7 +1543,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Телефон"
               },
               {
               "languageCode": 4,
@@ -1557,7 +1557,7 @@
     "City": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ქალაქი"
               },
               {
               "languageCode": 2,
@@ -1565,7 +1565,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Город"
               },
               {
               "languageCode": 4,
@@ -1579,7 +1579,7 @@
     "Country": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ქვეყანა"
               },
               {
               "languageCode": 2,
@@ -1587,7 +1587,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Страна"
               },
               {
               "languageCode": 4,
@@ -1601,7 +1601,7 @@
     "Lastname": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "გვარი"
               },
               {
               "languageCode": 2,
@@ -1609,7 +1609,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Фамилия"
               },
               {
               "languageCode": 4,
@@ -1623,7 +1623,7 @@
     "Firstname": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "სახელი"
               },
               {
               "languageCode": 2,
@@ -1631,7 +1631,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Имя"
               },
               {
               "languageCode": 4,
@@ -1645,7 +1645,7 @@
     "SuccessSendCode": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "წარმატებით გაგზავნილია"
               },
               {
               "languageCode": 2,
@@ -1653,7 +1653,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Успешно отправлено"
               },
               {
               "languageCode": 4,
@@ -1667,7 +1667,7 @@
     "ServerError": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "სერვერის შეცდომა\nსცადე მოგვიანებით"
               },
               {
               "languageCode": 2,
@@ -1675,7 +1675,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Ошибка сервера\nПожалуйста, попробуйте позже"
               },
               {
               "languageCode": 4,
@@ -1689,7 +1689,7 @@
     "mailbelongstoanother": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ეს ელფოსტა ექუთვნის სხვა მომხმარებელს"
               },
               {
               "languageCode": 2,
@@ -1697,7 +1697,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Данный алрес принадлежит другому аккаунту"
               },
               {
               "languageCode": 4,
@@ -1713,7 +1713,7 @@
     "accountAlreadyActivatedMsg": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "შენი ანგარიში უკვე აქტივირებულია"
               },
               {
               "languageCode": 2,
@@ -1721,7 +1721,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Ваша учетная запись уже активирована"
               },
               {
               "languageCode": 4,
@@ -1736,7 +1736,7 @@
     "Congratulations": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "გილოცავთ!"
               },
               {
               "languageCode": 2,
@@ -1744,7 +1744,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Поздравляем!"
               },
               {
               "languageCode": 4,
@@ -1759,7 +1759,7 @@
     "Save": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "დაზოგე"
               },
               {
               "languageCode": 2,
@@ -1767,7 +1767,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Сохранить"
               },
               {
               "languageCode": 4,
@@ -1781,7 +1781,7 @@
     "CompleteRegistrationMsg": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "დაასრულე რეგისტრაცია დამატებითი დავალებების მისაღებად."
               },
               {
               "languageCode": 2,
@@ -1789,7 +1789,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Для получения дополнительных упражнений, завершите регистрацию"
               },
               {
               "languageCode": 4,
@@ -1804,7 +1804,7 @@
     "ReSendActivationCode": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "აქტივაციის კოდის თავიდან გაგზავნა"
               },
               {
               "languageCode": 2,
@@ -1812,7 +1812,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Заново выслать Код Активации"
               },
               {
               "languageCode": 4,
@@ -1826,7 +1826,7 @@
     "Activate": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "აქტივაცია"
               },
               {
               "languageCode": 2,
@@ -1834,7 +1834,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Активация"
               },
               {
               "languageCode": 4,
@@ -1848,7 +1848,7 @@
     "EnterActivationMsg": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "შეამოწმე შენი ელფოსტა და შეიყვანე აქტივაციის კოდი"
               },
               {
               "languageCode": 2,
@@ -1856,7 +1856,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Проверьте Почту И Введите Код Активации"
               },
               {
               "languageCode": 4,
@@ -1870,7 +1870,7 @@
     "GetKey": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "მიიღე გასაღები"
               },
               {
               "languageCode": 2,
@@ -1878,7 +1878,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Получить Ключ"
               },
               {
               "languageCode": 4,
@@ -1893,7 +1893,7 @@
     "IHaveKey": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "უკვე მაქვს გასაღები"
               },
               {
               "languageCode": 2,
@@ -1901,7 +1901,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "У Меня Уже Есть Ключ"
               },
               {
               "languageCode": 4,
@@ -1917,7 +1917,7 @@
     "ActivationMsg": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "გამოგიგზავნით აქტივაციის გასაღებს შენს ელფოეტაზე."
               },
               {
               "languageCode": 2,
@@ -1925,7 +1925,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Мы отправим вам Ключ Активации на почту"
               },
               {
               "languageCode": 4,
@@ -1940,7 +1940,7 @@
     "Yourcurrentplan": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "შენი მიმდინარე გეგმა"
               },
               {
               "languageCode": 2,
@@ -1948,7 +1948,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Ваш текущий план"
               },
               {
               "languageCode": 4,
@@ -1963,7 +1963,7 @@
     "upgrate": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "განაახლე"
               },
               {
               "languageCode": 2,
@@ -1971,7 +1971,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "УЛУЧШИТЬ"
               },
               {
               "languageCode": 4,
@@ -1986,7 +1986,7 @@
     "Giftaccounts": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "სასაჩუქრე ანგარიშები"
               },
               {
               "languageCode": 2,
@@ -1994,7 +1994,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Подарочные учетные записи"
               },
               {
               "languageCode": 4,
@@ -2008,7 +2008,7 @@
     "Tasks": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "დავალებები"
               },
               {
               "languageCode": 2,
@@ -2016,7 +2016,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Задания"
               },
               {
               "languageCode": 4,
@@ -2030,7 +2030,7 @@
     "Languages": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ენები"
               },
               {
               "languageCode": 2,
@@ -2038,7 +2038,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Языки:"
               },
               {
               "languageCode": 4,
@@ -2052,7 +2052,7 @@
     "daysleft": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "დარჩა [] დღე"
               },
               {
               "languageCode": 2,
@@ -2060,7 +2060,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Осталось [] дней"
               },
               {
               "languageCode": 4,
@@ -2074,7 +2074,7 @@
     "menuLogout": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "გამოსვლა"
               },
               {
               "languageCode": 2,
@@ -2082,7 +2082,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Выйти"
               },
               {
               "languageCode": 4,
@@ -2097,7 +2097,7 @@
     "menuSettings": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "პარამეტრები"
               },
               {
               "languageCode": 2,
@@ -2105,7 +2105,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Настройки"
               },
               {
               "languageCode": 4,
@@ -2119,7 +2119,7 @@
     "menuProfile": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "პროფილი"
               },
               {
               "languageCode": 2,
@@ -2127,7 +2127,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Профиль"
               },
               {
               "languageCode": 4,
@@ -2141,7 +2141,7 @@
     "menuMyplan": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ჩემი გეგმა"
               },
               {
               "languageCode": 2,
@@ -2149,7 +2149,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Мой план"
               },
               {
               "languageCode": 4,
@@ -2163,7 +2163,7 @@
     "menuPackets": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "პაკეტები"
               },
               {
               "languageCode": 2,
@@ -2171,7 +2171,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Пакеты"
               },
               {
               "languageCode": 4,
@@ -2185,7 +2185,7 @@
     "menuDashBoard": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ჩემი გვერდი"
               },
               {
               "languageCode": 2,
@@ -2193,7 +2193,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Панель приборов"
               },
               {
               "languageCode": 4,
@@ -2208,7 +2208,7 @@
     "Makecomfortable": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data":  "გახადე სწავლის პროცესი უფრო კომფორტული"
               },
               {
               "languageCode": 2,
@@ -2216,7 +2216,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Сделай процесс обучения комфортнее"
               },
               {
               "languageCode": 4,
@@ -2230,7 +2230,7 @@
     "Selectpackage": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "აირჩიე პაკეტი"
               },
               {
               "languageCode": 2,
@@ -2238,7 +2238,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Выберите пакет"
               },
               {
               "languageCode": 4,
@@ -2252,7 +2252,7 @@
     "Dontwaittomorrow": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "არ დაელოდო ხვალინდელ დღეს"
               },
               {
               "languageCode": 2,
@@ -2260,7 +2260,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Не откладывай на завтра"
               },
               {
               "languageCode": 4,
@@ -2274,7 +2274,7 @@
     "Getbonusnow": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "მიიღე ბონუსი ახლავე"
               },
               {
               "languageCode": 2,
@@ -2282,7 +2282,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Получить бонус сейчас"
               },
               {
               "languageCode": 4,
@@ -2296,7 +2296,7 @@
     "Tosavesignup": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "დარეგისტრირდი პროგრესის შესანახად"
               },
               {
               "languageCode": 2,
@@ -2304,7 +2304,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Авторизируйтесь, чтобы получить бонус"
               },
               {
               "languageCode": 4,
@@ -2318,7 +2318,7 @@
     "Signupandcontinue": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "დარეგისტრირდი და განაგრძე"
               },
               {
               "languageCode": 2,
@@ -2326,7 +2326,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Регистрируйтесь и продолжайте"
               },
               {
               "languageCode": 4,
@@ -2341,7 +2341,7 @@
     "Getmore": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "მიიღე მეტი"
               },
               {
               "languageCode": 2,
@@ -2349,7 +2349,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Получить больше"
               },
               {
               "languageCode": 4,
@@ -2363,7 +2363,7 @@
     "Bonus": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ბონუსი"
               },
               {
               "languageCode": 2,
@@ -2371,7 +2371,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Бонус"
               },
               {
               "languageCode": 4,
@@ -2385,7 +2385,7 @@
     "Registration": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "რეგისტრაცია"
               },
               {
               "languageCode": 2,
@@ -2393,7 +2393,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Регистрация"
               },
               {
               "languageCode": 4,
@@ -2407,7 +2407,7 @@
     "Introduction": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "შესავალი"
               },
               {
               "languageCode": 2,
@@ -2415,7 +2415,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Введение"
               },
               {
               "languageCode": 4,
@@ -2430,7 +2430,7 @@
     "Pointsearned": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "დაგროვილი ქულა"
               },
               {
               "languageCode": 2,
@@ -2438,7 +2438,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Заработанные баллы"
               },
               {
               "languageCode": 4,
@@ -2452,7 +2452,7 @@
     "Taskscompleted": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "შესრულებული დავალება"
               },
               {
               "languageCode": 2,
@@ -2460,7 +2460,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Задания выполнены"
               },
               {
               "languageCode": 4,
@@ -2474,7 +2474,7 @@
     "AreYouSure": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data":  "დარწმუნებული ხარ?"
               },
               {
               "languageCode": 2,
@@ -2482,7 +2482,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Вы уверены?"
               },
               {
               "languageCode": 4,
@@ -2505,7 +2505,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Ок"
               },
               {
               "languageCode": 4,
@@ -2520,7 +2520,7 @@
     "ChangeLanguage": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ენის შეცვლა"
               },
               {
               "languageCode": 2,
@@ -2528,7 +2528,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Сменить язык"
               },
               {
               "languageCode": 4,
@@ -2543,7 +2543,7 @@
     "ResetCourse": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "კურსის განულება"
               },
               {
               "languageCode": 2,
@@ -2551,7 +2551,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Обнулить курс"
               },
               {
               "languageCode": 4,
@@ -2565,7 +2565,7 @@
     "CourseStatistics": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "კურსის სტატისტიკა"
               },
               {
               "languageCode": 2,
@@ -2573,7 +2573,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Статистика курса"
               },
               {
               "languageCode": 4,
@@ -2587,7 +2587,7 @@
     "AboutCourse": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "კურსის შესახებ"
               },
               {
               "languageCode": 2,
@@ -2595,7 +2595,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "О Курсе"
               },
               {
               "languageCode": 4,
@@ -2609,7 +2609,7 @@
     "Cancel": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "გაუქმება"
               },
               {
               "languageCode": 2,
@@ -2617,7 +2617,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Отмена"
               },
               {
               "languageCode": 4,
@@ -2632,7 +2632,7 @@
     "Bye": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ნახვამდის"
               },
               {
               "languageCode": 2,
@@ -2640,7 +2640,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "до свидания"
               },
               {
               "languageCode": 4,
@@ -2655,7 +2655,7 @@
     "Continue": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "გაგრძელება"
               },
               {
               "languageCode": 2,
@@ -2663,7 +2663,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Продолжить"
               },
               {
               "languageCode": 4,
@@ -2678,7 +2678,7 @@
     "Start": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "დაწყება"
               },
               {
               "languageCode": 2,
@@ -2686,7 +2686,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Начать"
               },
               {
               "languageCode": 4,
@@ -2701,7 +2701,7 @@
     "Topscores": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ლედერები"
               },
               {
               "languageCode": 2,
@@ -2709,7 +2709,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Лидеры"
               },
               {
               "languageCode": 4,
@@ -2723,7 +2723,7 @@
     "goAhead": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "წინ!"
               },
               {
               "languageCode": 2,
@@ -2731,7 +2731,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "ВПЕРЕД!"
               },
               {
               "languageCode": 4,
@@ -2746,7 +2746,7 @@
     "Next": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "შემდეგი"
               },
               {
               "languageCode": 2,
@@ -2754,7 +2754,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Следующий"
               },
               {
               "languageCode": 4,
@@ -2769,7 +2769,7 @@
     "Score": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ქულა"
               },
               {
               "languageCode": 2,
@@ -2777,7 +2777,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Счет:"
               },
               {
               "languageCode": 4,
@@ -2793,7 +2793,7 @@
     "Ithinkmylevelis": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ვფიქრობ, ჩემი დონე არის..."
               },
               {
               "languageCode": 2,
@@ -2801,7 +2801,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Думаю, мой уровень..."
               },
               {
               "languageCode": 4,
@@ -2816,7 +2816,7 @@
     "Iwanttolearn": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "მსურს ვისწავლო []"
               },
               {
               "languageCode": 2,
@@ -2824,7 +2824,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Я хочу заниматься при помощи []"
               },
               {
               "languageCode": 4,
@@ -2839,7 +2839,7 @@
     "LoginRegistration": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ავტორიზაცია/რეგისტრაცია"
               },
               {
               "languageCode": 2,
@@ -2847,7 +2847,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Активизация/Регистрация"
               },
               {
               "languageCode": 4,
@@ -2862,7 +2862,7 @@
     "Startlearning": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "სწავლის დაწყება"
               },
               {
               "languageCode": 2,
@@ -2870,7 +2870,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Начать изучение"
               },
               {
               "languageCode": 4,
@@ -2884,7 +2884,7 @@
     "Ialreadyhaveanaccount": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ვარ დარეგისტრირებული"
               },
               {
               "languageCode": 2,
@@ -2892,7 +2892,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "У меня уже есть учетная запись"
               },
               {
               "languageCode": 4,
@@ -2907,7 +2907,7 @@
     "Choosethelanguagetolearn": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "აირჩიე ენა"
               },
               {
               "languageCode": 2,
@@ -2915,7 +2915,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Выбрать язык для изучения"
               },
               {
               "languageCode": 4,
@@ -2930,7 +2930,7 @@
     "Repeatyourpassword": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "გაიმეორე პაროლი"
               },
               {
               "languageCode": 2,
@@ -2938,7 +2938,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Повторите пароль"
               },
               {
               "languageCode": 4,
@@ -2952,7 +2952,7 @@
     "EnterYourCode": [
                        {
                        "languageCode": 1,
-                       "data": "ქართული"
+                       "data": "შეიყვანე კოდი"
                        },
                        {
                        "languageCode": 2,
@@ -2960,7 +2960,7 @@
                        },
                        {
                        "languageCode": 3,
-                       "data": "русский"
+                       "data": "Введите Свой Код"
                        },
                        {
                        "languageCode": 4,
@@ -2974,7 +2974,7 @@
     "Enteryouremail": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "შეიყვანე შენი ელფოსტა"
               },
               {
               "languageCode": 2,
@@ -2982,7 +2982,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Введите адрес своей эл. почты"
               },
               {
               "languageCode": 4,
@@ -2996,7 +2996,7 @@
     "EnterNewpassword": [
                        {
                        "languageCode": 1,
-                       "data": "ქართული"
+                       "data": "შეიყვანე ახალი პაროლი"
                        },
                        {
                        "languageCode": 2,
@@ -3004,7 +3004,7 @@
                        },
                        {
                        "languageCode": 3,
-                       "data": "русский"
+                       "data": "Введите новый пароль"
                        },
                        {
                        "languageCode": 4,
@@ -3018,7 +3018,7 @@
     "EnterOldpassword": [
                          {
                          "languageCode": 1,
-                         "data": "ქართული"
+                         "data": "შეიყვანე ძველი პაროლი"
                          },
                          {
                          "languageCode": 2,
@@ -3026,7 +3026,7 @@
                          },
                          {
                          "languageCode": 3,
-                         "data": "русский"
+                         "data": "Введите старый пароль"
                          },
                          {
                          "languageCode": 4,
@@ -3040,7 +3040,7 @@
     "Enteryourpassword": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "შეიყვანე პაროლი"
               },
               {
               "languageCode": 2,
@@ -3048,7 +3048,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Введите свой пароль"
               },
               {
               "languageCode": 4,
@@ -3062,7 +3062,7 @@
     "Terms": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "პირობები"
               },
               {
               "languageCode": 2,
@@ -3070,7 +3070,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Условия"
               },
               {
               "languageCode": 4,
@@ -3085,7 +3085,7 @@
     "AlreadyHaveAnAccount": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "უკვე ხარ დარეგისტრირებული?"
               },
               {
               "languageCode": 2,
@@ -3093,7 +3093,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Уже есть учетная запись?"
               },
               {
               "languageCode": 4,
@@ -3107,7 +3107,7 @@
     "DontHaveAnAccount": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "არ ხარ დარეგისტრირებული?"
               },
               {
               "languageCode": 2,
@@ -3115,7 +3115,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Нету учетной записи?"
               },
               {
               "languageCode": 4,
@@ -3131,7 +3131,7 @@
     "SignUpwithEmail": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "რეგისტრაცია ელფოსტით"
               },
               {
               "languageCode": 2,
@@ -3139,7 +3139,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Регистрация при помощи эл. почты"
               },
               {
               "languageCode": 4,
@@ -3153,7 +3153,7 @@
     "SignInwithEmail": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ავტორიზაცია ელფოსტით"
               },
               {
               "languageCode": 2,
@@ -3161,7 +3161,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Авторизация при помощи эл. почты"
               },
               {
               "languageCode": 4,
@@ -3176,7 +3176,7 @@
     "Signin": [
               {
               "languageCode": 1,
-              "data": "შესვლა"
+              "data": "ავტორიზაცია"
               },
               {
               "languageCode": 2,
@@ -3184,7 +3184,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Авторизация"
               },
               {
               "languageCode": 4,
@@ -3207,7 +3207,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Регистрация"
               },
               {
               "languageCode": 4,
@@ -3221,7 +3221,7 @@
     "SignUpWith": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "რეგისტრაცია"
               },
               {
               "languageCode": 2,
@@ -3229,7 +3229,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Регистрация при помощи"
               },
               {
               "languageCode": 4,
@@ -3243,7 +3243,7 @@
     "SignInWith": [
               {
               "languageCode": 1,
-              "data": "ქართული"
+              "data": "ავტორიზაცია"
               },
               {
               "languageCode": 2,
@@ -3251,7 +3251,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Авторизация при помощи"
               },
               {
               "languageCode": 4,
@@ -3273,7 +3273,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "или"
               },
               {
               "languageCode": 4,
@@ -3297,7 +3297,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Авторизация при помощи Twitter"
               },
               {
               "languageCode": 4,
@@ -3320,11 +3320,11 @@
               },
               {
               "languageCode": 3,
-              "data": "Conéctate a través de Google+"
+              "data": "Авторизация при помощи Google+"
               },
               {
               "languageCode": 4,
-              "data": "Con"
+              "data": "Conéctate a través de Google+"
               },
               {
               "languageCode": 5,
@@ -3342,7 +3342,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Авторизация при помощи Facebook"
               },
               {
               "languageCode": 4,
@@ -3356,7 +3356,7 @@
     "loaderPageMsg": [
               {
               "languageCode": 1,
-              "data": "მასწავლებელი შენს ჯიბეში!"
+              "data": ""
               },
               {
               "languageCode": 2,
@@ -3364,7 +3364,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Учитель у вас в кармане!"
               },
               {
               "languageCode": 4,
@@ -3386,7 +3386,7 @@
               },
               {
               "languageCode": 3,
-              "data": ""
+              "data": "Подсказка"
              },
              {
              "languageCode": 4,
@@ -3409,7 +3409,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Сменить язык"
             },
             {
                 "languageCode": 4,
@@ -3431,7 +3431,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Сменить пароль"
                        },
                        {
                        "languageCode": 4,
@@ -3453,7 +3453,7 @@
                    },
                    {
                    "languageCode": 3,
-                   "data": "Интернет не является"
+                   "data": "Отсутствует интернет-соединение"
                    },
                    {
                    "languageCode": 4,
@@ -3475,7 +3475,7 @@
                    },
                    {
                    "languageCode": 3,
-                   "data": "Интернет не является"
+                   "data": "Ой!"
                         },
                         {
                         "languageCode": 4,
@@ -3497,7 +3497,7 @@
             },
             {
                 "languageCode": 3,
-                "data": "Интернет не является"
+                "data": "Похоже, вы не подключены к интернету... Пожалуйста, проверьте соединение и возвращайтесь. Мы ждем!"
                       },
                       {
                       "languageCode": 4,
@@ -3519,7 +3519,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Грузинский"
             },
             {
             "languageCode": 4,
@@ -3541,7 +3541,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Английский"
             },
             {
             "languageCode": 4,
@@ -3559,11 +3559,11 @@
               },
               {
               "languageCode": 2,
-              "data": "Russia"
+              "data": "Russian"
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Русский"
             },
             {
             "languageCode": 4,
@@ -3585,7 +3585,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Итальянский"
             },
             {
             "languageCode": 4,
@@ -3607,7 +3607,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Испанский"
             },
             {
             "languageCode": 4,
@@ -3629,7 +3629,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Французский"
             },
             {
             "languageCode": 4,
@@ -3651,7 +3651,7 @@
               },
               {
               "languageCode": 3,
-              "data": "русский"
+              "data": "Турецкий"
             },
             {
             "languageCode": 4,
