@@ -15,15 +15,15 @@
         },
         {
             "languageCode": 3,
-            "data": "русский"
+            "data": "Пробел"
         },
         {
             "languageCode": 4,
-            "data": "espanio"
+            "data": "Espacio"
         },
         {
             "languageCode": 5,
-            "data": "turkia"
+            "data": "Boşluk"
         }
     ],
     "grammarNextTask": [
@@ -37,11 +37,11 @@
         },
         {
             "languageCode": 3,
-            "data": "русский"
+            "data": "Следующее задание"
         },
         {
             "languageCode": 4,
-            "data": "espanio"
+            "data": "Siguiente ejercicio"
         },
         {
             "languageCode": 5,
@@ -59,11 +59,11 @@
         },
         {
             "languageCode": 3,
-            "data": "русский"
+            "data": "Подробно"
         },
         {
             "languageCode": 4,
-            "data": "espanio"
+            "data": "Vea más"
         },
         {
             "languageCode": 5,
@@ -81,11 +81,11 @@
         },
         {
             "languageCode": 3,
-            "data": "русский"
+            "data": "Напечатайте первые буквы слов"
         },
         {
             "languageCode": 4,
-            "data": "espanio"
+            "data": "Escribe las primeras letras de las palabras"
         },
         {
             "languageCode": 5,
@@ -103,7 +103,7 @@
         },
         {
             "languageCode": 3,
-            "data": "русский"
+            "data": "Повторение"
         },
         {
             "languageCode": 4,
@@ -125,7 +125,7 @@
         },
         {
             "languageCode": 3,
-            "data": "русский"
+            "data": "Пропущенные слова"
         },
         {
             "languageCode": 4,
@@ -147,7 +147,7 @@
         },
         {
             "languageCode": 3,
-            "data": "русский"
+            "data": "Исправление ошибок"
         },
         {
             "languageCode": 4,
@@ -169,7 +169,7 @@
         },
         {
             "languageCode": 3,
-            "data": "русский"
+            "data": "Грамматика"
         },
         {
             "languageCode": 4,
@@ -191,7 +191,7 @@
         },
         {
             "languageCode": 3,
-            "data": "русский"
+            "data": "Диалог"
         },
         {
             "languageCode": 4,
@@ -213,7 +213,7 @@
         },
         {
             "languageCode": 3,
-            "data": "русский"
+            "data": "Диктант"
         },
         {
             "languageCode": 4,
@@ -235,7 +235,7 @@
         },
         {
             "languageCode": 3,
-            "data": "русский"
+            "data": "Перевод"
         },
         {
             "languageCode": 4,
