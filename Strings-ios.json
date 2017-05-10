@@ -1,5 +1,5 @@
 {
-    "forgetPassbutton": [
+     "SendPassbutton": [
                         {
                         "languageCode": 1,
                         "data": "პაროლის აღდგენა"
@@ -21,6 +21,28 @@
                         "data": "Kaydolmak için kullandığınız e-posta"
                         }
                         ],
+    "forgetPassbutton": [
+                         {
+                         "languageCode": 1,
+                         "data": "დაგავიწყდა აღდგენა"
+                         },
+                         {
+                         "languageCode": 2,
+                         "data": "Forget Password"
+                         },
+                         {
+                         "languageCode": 3,
+                         "data": "пароля"
+                         },
+                         {
+                         "languageCode": 4,
+                         "data": "contraseña."
+                         },
+                         {
+                         "languageCode": 5,
+                         "data": "Kaydolmak için kullandığınız e-posta"
+                         }
+                         ],
     "forgetPassAlert": [
                       {
                       "languageCode": 1,
