@@ -18,29 +18,29 @@
                         },
                         {
                         "languageCode": 5,
-                        "data": "Kaydolmak için kullandığınız e-posta"
+                        "data": "Şifreyi yenile"
                         }
                         ],
     "forgetPassbutton": [
                          {
                          "languageCode": 1,
-                         "data": "დაგავიწყდა აღდგენა"
+                         "data": "დაგავიწყდა პაროლი?"
                          },
                          {
                          "languageCode": 2,
-                         "data": "Forget Password"
+                         "data": "Forgot Password?"
                          },
                          {
                          "languageCode": 3,
-                         "data": "пароля"
+                         "data": "Забыли пароль?"
                          },
                          {
                          "languageCode": 4,
-                         "data": "contraseña."
+                         "data": "¿Olvidaste tu contraseña?"
                          },
                          {
                          "languageCode": 5,
-                         "data": "Kaydolmak için kullandığınız e-posta"
+                         "data": "Şifreni mi unuttun?"
                          }
                          ],
     "forgetPassAlert": [
@@ -50,19 +50,19 @@
                       },
                       {
                       "languageCode": 2,
-                      "data": "If the email you specified exists in our system, we've sent a password reset link to it."
+                      "data": "If the email you specified exists in our system, you'll get a password reset link."
                       },
                       {
                       "languageCode": 3,
-                      "data": "пароля"
+                      "data": "Если указанный вами адрес электронной почты существует в нашей системе, вы получите ссылку для смены пароля."
                       },
                       {
                       "languageCode": 4,
-                      "data": "contraseña."
+                      "data": "Si el correo electrónico existe en nuestro base, ya te hemos enviado el enlace para resablecer tu contraseña."
                       },
                       {
                       "languageCode": 5,
-                      "data": "Kaydolmak için kullandığınız e-posta"
+                      "data": "Belirtiğin e-posta sistemimizde mevcutsa, şifre sıfırlama bağlantısı gönderilir."
                       }
                       ],
     "forgetPassMsg": [
