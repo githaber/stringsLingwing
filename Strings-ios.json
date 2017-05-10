@@ -1,4 +1,71 @@
 {
+    "forgetPassbutton": [
+                        {
+                        "languageCode": 1,
+                        "data": "პაროლის აღდგენა"
+                        },
+                        {
+                        "languageCode": 2,
+                        "data": "Reset Password"
+                        },
+                        {
+                        "languageCode": 3,
+                        "data": "пароля"
+                        },
+                        {
+                        "languageCode": 4,
+                        "data": "contraseña."
+                        },
+                        {
+                        "languageCode": 5,
+                        "data": "Kaydolmak için kullandığınız e-posta"
+                        }
+                        ],
+    "forgetPassAlert": [
+                      {
+                      "languageCode": 1,
+                      "data": "თუ მითითებული ელ. ფოსტა არსებობს ჩვენს სისტემაში, თქვენ უკვე გამოგეგზავნათ პაროლის აღდგენის ბმული."
+                      },
+                      {
+                      "languageCode": 2,
+                      "data": "If the email you specified exists in our system, we've sent a password reset link to it."
+                      },
+                      {
+                      "languageCode": 3,
+                      "data": "пароля"
+                      },
+                      {
+                      "languageCode": 4,
+                      "data": "contraseña."
+                      },
+                      {
+                      "languageCode": 5,
+                      "data": "Kaydolmak için kullandığınız e-posta"
+                      }
+                      ],
+    "forgetPassMsg": [
+                         {
+                         "languageCode": 1,
+                      "data": "შეიყვანეთ ელ-ფოსტის მისამართი, რომელიც მიუთითეთ რეგისტრაციისას და ჩვენ გამოგიგზავნით ინსტრუქციას პაროლის აღდგენის შესახებ."
+                         },
+                         {
+                         "languageCode": 2,
+                         "data": "Enter E-mail address you used to sign up and we'll send you a link to change the password."
+                         },
+                         {
+                         "languageCode": 3,
+                      "data": "Введите адрес эл. почты, который Вы указали во время регистрации и Мы отправим Вам инструкцию О восстановлении пароля"
+                         },
+                         {
+                         "languageCode": 4,
+                      "data": "Introduce tu correo electrónico con cual registraste Enviarémos instrucciones sobre su contraseña."
+                         },
+                         {
+                         "languageCode": 5,
+                         "data": "Kaydolmak için kullandığınız e-posta adresini girin ve şifre yenileme hakkında size bir link göndereceğiz "
+                         }
+                         ],
+    
     "Permissiondenied": [
                           {
                           "languageCode": 1,
