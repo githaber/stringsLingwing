@@ -1,4 +1,26 @@
 {
+    "Permissiondenied": [
+                          {
+                          "languageCode": 1,
+                          "data": "არ მაქვს უფლება, ამის გაკეთების, გადადი სეთინგებში და ჩამირთე"
+                          },
+                          {
+                          "languageCode": 2,
+                          "data": "Don't have permission to do this, go Settongs and give me Access"
+                          },
+                          {
+                          "languageCode": 3,
+                          "data": "русский"
+                          },
+                          {
+                          "languageCode": 4,
+                          "data": "espanio"
+                          },
+                          {
+                          "languageCode": 5,
+                          "data": "turkia"
+                          }
+                          ],
     "lgeo": "ქართული",
     "leng": "English",
     "lesp": "Español",
