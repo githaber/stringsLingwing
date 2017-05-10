@@ -2,23 +2,23 @@
     "Permissiondenied": [
                           {
                           "languageCode": 1,
-                          "data": "არ მაქვს უფლება, ამის გაკეთების, გადადი სეთინგებში და ჩამირთე"
+                          "data": "წვდომა არ არის ნებადართული - წვდომის მოსანიჭებლად გადადი პარამეტრებზე"
                           },
                           {
                           "languageCode": 2,
-                          "data": "Don't have permission to do this, go Settongs and give me Access"
+                          "data": "Access denied! - Go to settings and grant a permission"
                           },
                           {
                           "languageCode": 3,
-                          "data": "русский"
+                          "data": "Доступ запрещен - зайдите в Настройки, чтобы предоставить доступ"
                           },
                           {
                           "languageCode": 4,
-                          "data": "espanio"
+                          "data": "El acceso no es disponible - Para conseguirlo entra en opciones"
                           },
                           {
                           "languageCode": 5,
-                          "data": "turkia"
+                          "data": "Erişim reddedildi!  - Erişmek için ayarlara girin"
                           }
                           ],
     "lgeo": "ქართული",
